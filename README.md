@@ -1,8 +1,8 @@
 PHARMACY MANAGEMENT SYSTEM USING JAVA CONSOLE
 
 Group Members:
-Sherwin S. Selma - Leader
-Alexis J. Alexo - Member
+Sherwin S. Selma - Leader,
+Alexis J. Alexo - Member,
 Ivan Jay O. Daigdigan - Member
 
 
