@@ -6,6 +6,8 @@ Alexis J. Alexo - Member
 Ivan Jay O. Daigdigan - Member
 
 FEATURES
+![Screenshot (9)](https://user-images.githubusercontent.com/116985513/198858337-0cc7d18f-2ac5-4d67-bcc8-8333c7aaf762.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/116985513/198858343-81f0b6fc-22c0-44ec-85cc-1719230ab78e.png)
 Add Employee
 Add Medicine
 Update Employee
