@@ -1,5 +1,21 @@
-# Pharmacy-Management-System
+PHARMACY MANAGEMENT SYSTEM USING JAVA CONSOLE
+
+Group Members:
+Sherwin S. Selma - Leader
+Alexis J. Alexo - Member
+Ivan Jay O. Daigdigan - Member
+
+FEATURES
+Add Employee
+Add Medicine
+Update Employee
+Update Medicine
+Show Employee Details
+Show Medicine Details
+Remove Employee Details
+Remove Medicine Details
 PROJECT - Pharmacy Management System Introduction
+
 Pharmacy management system is a medical store system developed in NetBeans/Java Eclipse using java programming language. Pharmacy management system offers you the control over your pharmacy shop in the manner that what you can add or remove from the pharma store. This is a simple project that has three modules like:
 
 CVS where you can manage your products and changes
