@@ -13,13 +13,13 @@ Screenshot
 
 FEATURES
 
-Add Employee
-Add Medicine
-Update Employee
-Update Medicine
-Show Employee Details
-Show Medicine Details
-Remove Employee Details
+Add Employee,
+Add Medicine,
+Update Employee,
+Update Medicine,
+Show Employee Details,
+Show Medicine Details,
+Remove Employee Details,
 Remove Medicine Details
 
 
